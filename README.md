@@ -1,3 +1,2 @@
-# Checkpoint-1-Computational-Think
-Integrantes do grupo: 
+# Checkpoint-1-Computational-Think 
 Victoria Silva Barreto RM: 562435
